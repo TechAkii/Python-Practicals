@@ -2,6 +2,7 @@
 
 Welcome to the **Python Practicals Repository**! This repository contains various Python practical exercises and projects from my coursework.
 
+
 ## 📂 Repository Structure
 
 ```
